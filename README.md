@@ -16,6 +16,10 @@ Nous avons travaillé à deux sur ce projet, où une part importante du travail 
 - **Récidives** : Analyse des récidives en fonction du sexe, de la nationalité, de l'âge, du type de crime et de la peine. Évolution depuis 2005.
 - **Comparaison UE** : Comparaison des dépenses pour la sécurité pour 100 000 habitants entre différents pays européens, nombre de policiers pour 10 000 habitants, etc.
 
+## Captures d'écran
+[Page d'accueil](assets/Page_home.jpeg)
+
+
 ## Objectifs
 
 L’objectif de ce projet était de :
