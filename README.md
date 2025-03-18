@@ -8,7 +8,7 @@ Nous avons travaillé à deux sur ce projet, où une part importante du travail 
 
 ## Pages du Tableau de Bord
 
-- **Page d'accueil** : Présentation des chiffres clés et des dépenses liées à la sécurité.
+- **[Page d'accueil](assets/Page_home.jpeg)** : Présentation des chiffres clés et des dépenses liées à la sécurité.
 - **Faits** : Comparaison du nombre et des types de crimes par région, évolution des types de crimes, etc.
 - **Profil des auteurs** : Analyse des profils des auteurs de crimes en fonction du type de crime commis (français ou étrangers).
 - **Profil des victimes** : Répartition des victimes par âge, nombre de victimes par type de crime, etc.
@@ -17,7 +17,7 @@ Nous avons travaillé à deux sur ce projet, où une part importante du travail 
 - **Comparaison UE** : Comparaison des dépenses pour la sécurité pour 100 000 habitants entre différents pays européens, nombre de policiers pour 10 000 habitants, etc.
 
 ## Captures d'écran
-[Page d'accueil](assets/Page_home.jpeg)
+
 
 
 ## Objectifs
