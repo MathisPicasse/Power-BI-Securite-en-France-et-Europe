@@ -9,10 +9,10 @@ Nous avons travaillé à deux sur ce projet, où une part importante du travail 
 ## Pages du Tableau de Bord
 
 - **[Page d'accueil](assets/Page_home.jpeg)** : Présentation des chiffres clés et des dépenses liées à la sécurité.
-- **Faits** : Comparaison du nombre et des types de crimes par région, évolution des types de crimes, etc.
+- **[Faits](assets/Faits.jpeg)** : Comparaison du nombre et des types de crimes par région, évolution des types de crimes, etc.
 - **[Profil des auteurs](assets/Profil_auteur.jpeg)** : Analyse des profils des auteurs de crimes en fonction du type de crime commis (français ou étrangers).
 - **[Profil des victimes](assets/Profil_victime.jpeg)** : Répartition des victimes par âge, nombre de victimes par type de crime, etc.
-- **Police** : Données sur le nombre de policiers, répartition des policiers par tranche d'âge.
+- **[Police](assets/police.jpeg)** : Données sur le nombre de policiers, répartition des policiers par tranche d'âge.
 - **[Récidives](assets/Recidives.jpeg)** : Analyse des récidives en fonction du sexe, de la nationalité, de l'âge, du type de crime et de la peine. Évolution depuis 2005.
 - **[Comparaison UE](assets/Comparaison_UE.jpeg)** : Comparaison des dépenses pour la sécurité pour 100 000 habitants entre différents pays européens, nombre de policiers pour 10 000 habitants, etc.
 
